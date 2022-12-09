@@ -13,3 +13,6 @@ Telegram bot - with API yandex weather
 1) requests
 2) pyTelegramBOTAPI
 3) geopy
+
+# API
+API ( Application programming interface)
